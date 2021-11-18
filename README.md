@@ -1,1 +1,5 @@
-## 01_Springboard_learning_projects
+### Case studies 
+- Problem statements assignemnts
+
+### Case study - London Housing Price
+- Tools: Python packages including Numpy, Pandas, Matplotlib, Seaborn 
