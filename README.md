@@ -1,3 +1,3 @@
 
-- Tools: Python packages including Numpy, Pandas, Matplotlib, Seaborn, Ski-Learn
+- Tools: Python packages including Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn
 - MySQL, PostGreSQL, SQLite
