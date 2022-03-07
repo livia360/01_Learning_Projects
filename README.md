@@ -1,4 +1,4 @@
-
+### This repository contains all the required mini projects for the Springboard Data Science career track.
 - Data analysis: Numpy, Pandas
 - Data visualization: Matplotlib, Seaborn
 - Machine learning: Scikit-learn
