@@ -1,4 +1,4 @@
 
 Ecommerce Shipment
 ======================================================
-![shiping](./images/shipping.jpg)
+![shipping](./images/shipping.jpg)
