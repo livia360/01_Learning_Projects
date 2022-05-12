@@ -4,4 +4,6 @@
 - Machine learning: Scikit-learn
 - Supervised learning: Linear regression, Logistic regression, KNN, Decision Trees, Random Forests, Gradient Boosting
 - Unsupervised learning: K-means, Hierarchical clustering, PCA
-- MySQL, PostGreSQL
+- Time series analysis
+- SQL
+- Databricks notebook (spark SQL and dataframe)
