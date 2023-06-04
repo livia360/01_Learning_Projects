@@ -1,4 +1,4 @@
-### This repository contains all the required mini projects for the Springboard Data Science career track Bootcamp.
+### Hi, :wave: This repository contains all the required mini projects for the Springboard Data Science career track Bootcamp.
 - Data analysis: Pandas, Numpy
 - Data visualization: Matplotlib, Seaborn, Tableau
 - Statistics: Scikit-learn, hypothesis testing, probability distribution
