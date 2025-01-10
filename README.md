@@ -2,9 +2,9 @@
 - Data analysis: Pandas, Numpy
 - Data visualization: Matplotlib, Seaborn, Tableau
 - Statistics: Scikit-learn, hypothesis testing, probability distribution
-- Supervised learning: Linear regression, Logistic regression, KNN, Decision Tree, Random Forests, Gradient Boosting
+- Supervised learning: Linear Regression, Logistic Regression, KNN, Decision Tree, Random Forests, Gradient Boosting
 - Unsupervised learning: K-means, Hierarchical clustering, PCA
 - Time series analysis and forecasting
 - SQL
-- Databricks notebook (spark SQL and dataframe)
+- Databricks notebook (Spark SQL and dataframe)
 - Git
